@@ -3,7 +3,7 @@
 $(function () {
     // Custom selects
     if($("select").length > 0) {
-        $("select").dropkick();
+        //$("select").dropkick();
     }
 });
 
